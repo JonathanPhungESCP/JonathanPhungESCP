@@ -27,8 +27,8 @@
 | Project | Description | Link |
 |---|---|---|
 | **G10 FX Option Pricer** | Interactive Python app: multi-leg FX options with a volatility smile, premium and Greeks | [Live app](https://jonathan-fx-pricer.streamlit.app) |
-| **SPX Implied Volatility Surface** | Implied vol surface rebuilt from listed SPX option quotes | [Notebook](https://github.com/Jojolap1/quant-finance-projects/blob/main/spx_implied_volatility_surface.ipynb) |
-| **Trade Idea: S&P 500 Volatility Premium** | Seller's premium on index variance, survivorship bias in the cost of correlation, and a long-dispersion test; desk-style pitch with backtests and a live forward test | [Pitch](https://github.com/Jojolap1/quant-finance-projects/tree/main/trade-ideas/01-long-correlation) |
-| **Are Housing Prices Justified by Fundamentals?** *(in progress)* | Paris and Singapore: machine-learning price models vs rents capitalised at the user cost of housing, with interactive maps | [Live site](https://jojolap1.github.io/housing-fundamentals-thesis/paris.html) · [Repository](https://github.com/Jojolap1/housing-fundamentals-thesis) |
+| **SPX Implied Volatility Surface** | Implied vol surface rebuilt from listed SPX option quotes | [Notebook](https://github.com/JonathanPhungESCP/quant-finance-projects/blob/main/spx_implied_volatility_surface.ipynb) |
+| **Trade Idea: S&P 500 Volatility Premium** | Seller's premium on index variance, survivorship bias in the cost of correlation, and a long-dispersion test; desk-style pitch with backtests and a live forward test | [Pitch](https://github.com/JonathanPhungESCP/quant-finance-projects/tree/main/trade-ideas/01-long-correlation) |
+| **Are Housing Prices Justified by Fundamentals?** *(in progress)* | Paris and Singapore: machine-learning price models vs rents capitalised at the user cost of housing, with interactive maps | [Live site](https://jonathanphungescp.github.io/housing-fundamentals-thesis/paris.html) · [Repository](https://github.com/JonathanPhungESCP/housing-fundamentals-thesis) |
 
 **Tools:** Python, VBA, Excel, Bloomberg, Power BI · **Contact:** jonathan.phung@edu.escp.eu
